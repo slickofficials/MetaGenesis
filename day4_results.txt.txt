@@ -1,0 +1,78 @@
+PS C:\Users\slick\synth-fresh> python day4_self_synth.py
+Loading model... (cached on XPS – quick)
+Some weights of the model checkpoint at Salesforce/codegen-350M-mono causal_mask', 'transformer.h.1.attn.causal_mask', 'transformer.h.10.atn.causal_mask', 'transformer.h.13.attn.causal_mask', 'transformer.h.6.attn.causal_mask', 'transformer.h.17.attn.causal_mask', 'transforme.h.2.attn.causal_mask', 'transformer.h.3.attn.causal_mask', 'transfor.h.6.attn.causal_mask', 'transformer.h.7.attn.causal_mask', 'transfor
+- This IS expected if you are initializing CodeGenForCausalLM from the (e.g. initializing a BertForSequenceClassification model from a Ber
+- This IS NOT expected if you are initializing CodeGenForCausalLM frolizing a BertForSequenceClassification model from a BertForSequenceCl
+Device set to use cpu
+Model loaded! Synth + proofs + RLHF + Mainframe ready.
+
+--- Day 1: Basic Evo Loop ---
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generatio
+Both `max_new_tokens` (=150) and `max_length`(=200) seem to have beenion for more information. (https://huggingface.co/docs/transformers/m
+Initial Refactor:
+ Output Python code only: Refactor this COBOL/JCL to microservice:
+PERFORM VARYING I FROM 1 UNTIL I > 10 ADD 1 TO COUNTER.
+
+    """))
+
+--- Day 2: Critique + SymPy Proof ---
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generatio
+on for more information. (https://huggingface.co/docs/transformers/ma
+Critique:
+ Output short text only: Critique: Safe/efficient? Loops/leaks: Yes/Nervice:
+PERFORM VARYIN...  # noqa E501
+
+    def __init__(self, *args): # real signature unknown; restored fro
+
+Alignment Proof: Converges safe in ~20.6377023170323 iters (k=0.8 con
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generatio
+Both `max_new_tokens` (=150) and `max_length`(=250) seem to have beenion for more information. (https://huggingface.co/docs/transformers/m
+
+Final Evolved Output:
+ Output Python code only: Improve from Output Python code only: Refac
+PERFORM VARYING I FROM 1 UNTIL I > 10 ADD 1 TO COUNTER.
+
+    """... using fix Output short text only: Critique: Safe/efficientAlignment Proof: Converges safe in ~20.6377023170323 iters (k=0.8 con
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generatio
+Both `max_new_tokens` (=150) and `max_length`(=250) seem to have beenion for more information. (https://huggingface.co/docs/transformers/m
+
+Final Evolved Output:
+ Output Python code only: Improve from Output Python code only: Refac
+PERFORM VARYING I FROM 1 UNTIL I > 10 ADD 1 TO COUNTER.
+
+    """... using fix Output short text only: Critique: Safe/efficientSetting `pad_token_id` to `eos_token_id`:50256 for open-end generatio
+Both `max_new_tokens` (=150) and `max_length`(=250) seem to have beenion for more information. (https://huggingface.co/docs/transformers/m
+
+Final Evolved Output:
+ Output Python code only: Improve from Output Python code only: Refac
+PERFORM VARYING I FROM 1 UNTIL I > 10 ADD 1 TO COUNTER.
+
+    """... using fix Output short text only: Critique: Safe/efficient COBOL/JCL to microservice:
+PERFORM VARYIN...  # noqa E501
+
+    def __init__(self, *args): # real signature unknown; restored fro
+. DB2-safe, no loops/leaks. ♀   1 loop / leak = 0 -> counter += 2 =>  a comment on the next line of output python script that prints out se we are still printing at least one number for each iteration as welFinal Evolved Output:
+ Output Python code only: Improve from Output Python code only: Refac
+PERFORM VARYING I FROM 1 UNTIL I > 10 ADD 1 TO COUNTER.
+
+    """... using fix Output short text only: Critique: Safe/efficient COBOL/JCL to microservice:
+PERFORM VARYIN...  # noqa E501
+
+    def __init__(self, *args): # real signature unknown; restored fro
+. DB2-safe, no loops/leaks. ♀   1 loop / leak = 0 -> counter += 2 =>  a comment on the next line of output python script that prints out se we are still printing at least one number for each iteration as wel COBOL/JCL to microservice:
+PERFORM VARYIN...  # noqa E501
+
+    def __init__(self, *args): # real signature unknown; restored fro
+. DB2-safe, no loops/leaks. ♀   1 loop / leak = 0 -> counter += 2 =>  a comment on the next line of output python script that prints out se we are still printing at least one number for each iteration as welhey were greater after first time running through all iterations tillithout being counted again due too many times per second with some otn same function call therefore commenting them
+
+--- Day 3: RLHF Eval – Self-Test Aligned ---
+RLHF Score: Refactored accuracy 88.0% – Aligned? Yes.
+
+--- Day 4 Final – Aligned Accuracy: 88.0% ---
+PS C:\Users\slick\synth-fresh>
+hey were greater after first time running through all iterations tillithout being counted again due too many times per second with some otn same function call therefore commenting them
+
+--- Day 3: RLHF Eval – Self-Test Aligned ---
+RLHF Score: Refactored accuracy 88.0% – Aligned? Yes.
+
+--- Day 4 Final – Aligned Accuracy: 88.0% ---
